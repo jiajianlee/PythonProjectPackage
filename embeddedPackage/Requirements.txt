@@ -1,0 +1,557 @@
+[
+    {
+        "name": "fastapi",
+        "version": "0.150.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "annotated-doc",
+        "version": "0.0.5",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "opentelemetry-api",
+        "version": "1.45.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "typing-extensions",
+        "version": "4.16.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "pydantic",
+        "version": "2.14.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "annotated-types",
+        "version": "0.8.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "pydantic-core",
+        "version": "2.50.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "typing-inspection",
+        "version": "0.4.4",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "starlette",
+        "version": "1.9.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "anyio",
+        "version": "4.15.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "idna",
+        "version": "3.20",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "nvidia-cuda-runtime-cu12",
+        "version": "12.9.79",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "nvidia-cudnn-cu12",
+        "version": "9.27.0.42",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "nvidia-cublas-cu12",
+        "version": "12.9.2.10",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "nvidia-cuda-nvrtc-cu12",
+        "version": "12.9.86",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "paddleocr",
+        "version": "3.7.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "aiohttp",
+        "version": "3.14.5",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "aiohappyeyeballs",
+        "version": "2.7.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "aiosignal",
+        "version": "1.4.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "frozenlist",
+        "version": "1.8.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "attrs",
+        "version": "26.1.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "multidict",
+        "version": "7.1.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "propcache",
+        "version": "0.5.4",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "yarl",
+        "version": "1.25.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "paddlex",
+        "version": "3.7.2",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "aistudio-sdk",
+        "version": "0.3.9",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "bce-python-sdk",
+        "version": "0.9.79",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "crc32c",
+        "version": "2.9.post0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "future",
+        "version": "1.0.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "pycryptodome",
+        "version": "4.1.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "six",
+        "version": "1.17.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "click",
+        "version": "8.5.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "prettytable",
+        "version": "3.18.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "wcwidth",
+        "version": "0.9.3",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "psutil",
+        "version": "7.2.2",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "requests",
+        "version": "2.34.2",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "certifi",
+        "version": "2026.10.19",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "charset-normalizer",
+        "version": "3.5.2",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "urllib3",
+        "version": "2.8.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "tqdm",
+        "version": "4.70.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "colorama",
+        "version": "0.4.6",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "chardet",
+        "version": "7.7.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "colorlog",
+        "version": "6.12.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "filelock",
+        "version": "4.2.4",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "huggingface-hub",
+        "version": "2.2.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "fsspec",
+        "version": "2026.9.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "hf-xet",
+        "version": "1.7.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "httpx2",
+        "version": "2.16.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "httpcore2",
+        "version": "2.16.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "h11",
+        "version": "0.16.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "truststore",
+        "version": "0.10.5",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "httpx2-jsfetch",
+        "version": "1.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "packaging",
+        "version": "26.3",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "pyyaml",
+        "version": "6.0.2",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "modelscope",
+        "version": "1.40.2",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "modelscope-hub",
+        "version": "0.4.6",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "cryptography",
+        "version": "50.0.2",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "cffi",
+        "version": "2.1.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "pycparser",
+        "version": "3.12",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "setuptools",
+        "version": "84.0.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "numpy",
+        "version": "2.3.5",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "pandas",
+        "version": "3.1.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "python-dateutil",
+        "version": "3.0.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "tzdata",
+        "version": "2026.5",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "pillow",
+        "version": "13.0.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "py-cpuinfo",
+        "version": "9.0.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "ruamel-yaml",
+        "version": "0.19.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "ujson",
+        "version": "6.0.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "openai",
+        "version": "3.37.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "jiter",
+        "version": "0.17.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "sniffio",
+        "version": "1.3.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "beautifulsoup4",
+        "version": "4.15.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "soupsieve",
+        "version": "3.0.4",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "einops",
+        "version": "0.8.2",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "ftfy",
+        "version": "6.3.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "imagesize",
+        "version": "2.0.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "jinja2",
+        "version": "3.1.6",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "markupsafe",
+        "version": "3.0.4",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "latex2mathml",
+        "version": "3.81.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "lxml",
+        "version": "6.1.3",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "opencv-contrib-python",
+        "version": "4.10.0.84",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "openpyxl",
+        "version": "3.1.5",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "et-xmlfile",
+        "version": "2.0.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "premailer",
+        "version": "3.10.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "cachetools",
+        "version": "7.2.4",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "cssselect",
+        "version": "1.6.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "cssutils",
+        "version": "2.15.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "encutils",
+        "version": "1.0.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "more-itertools",
+        "version": "11.2.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "pyclipper",
+        "version": "1.4.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "pypdfium2",
+        "version": "5.14.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "python-bidi",
+        "version": "0.6.12",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "regex",
+        "version": "2026.9.29",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "safetensors",
+        "version": "0.8.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "scikit-learn",
+        "version": "1.9.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "joblib",
+        "version": "1.6.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "cloudpickle",
+        "version": "3.1.2",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "narwhals",
+        "version": "2.27.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "scipy",
+        "version": "1.18.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "threadpoolctl",
+        "version": "3.7.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "sentencepiece",
+        "version": "0.2.2",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "shapely",
+        "version": "2.2.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "tiktoken",
+        "version": "0.14.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "tokenizers",
+        "version": "0.23.3",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "paddlepaddle-gpu",
+        "version": "3.3.1",
+        "url": "https://www.paddlepaddle.org.cn/packages/stable/cu129/"
+    },
+    {
+        "name": "httpx",
+        "version": "0.28.1",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "httpcore",
+        "version": "1.0.9",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "networkx",
+        "version": "3.7",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "opt-einsum",
+        "version": "3.3.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "protobuf",
+        "version": "7.36.2",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    },
+    {
+        "name": "uvicorn",
+        "version": "0.54.0",
+        "url": "https://pypi.tuna.tsinghua.edu.cn/simple"
+    }
+]
