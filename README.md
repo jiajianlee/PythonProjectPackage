@@ -13,3 +13,7 @@
 - 3.在uv中添加依赖包的时候，如果只是开发用的，与发布无关的，用uv add 依赖包名 --dev。不然生成的Requirement.txt文档中会将这些包包含进去.
 - 4.支持依赖包动态更新，在添加新包后，重新运行package.py，就会生成新的Requirement.txt。在运行打包好的程序，也会将新的依赖包添加进去
 - 5.此文件需项目是UV配置的虚拟环境，必须添加nuitka依赖包
+- 6.项目的依赖文件，例如PyStand.exe或者嵌入式Python，或者是get-pip.py均可以在packageBaseFile文件夹内部下载，如果版本，内容不合适的话，则在相应的地址下载：
+  - 1).python必须是嵌入式文件.下载地址：
+https://www.python.org/downloads/windows/中查找带“embedded”字样的版本号
+  - 2).下载pystand文件，在github仓库(https://github.com/skywind3000/PyStand)上下载同名文件，需要注意的是要下载cli版本，这样能看到信息;该版本在发布的PyStand-v1.1.4-exe.zip的文件中；
